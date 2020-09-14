@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aed632bc-6aa4-4131-b93f-1290e4fd79ca" name="Default Changelist" comment="First name blue last name red background white">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h02/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h02/H4.java" afterDir="false" />
-    </list>
+    <list default="true" id="aed632bc-6aa4-4131-b93f-1290e4fd79ca" name="Default Changelist" comment="made some figures" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,7 +109,7 @@
       <workItem from="1599556222482" duration="1582000" />
       <workItem from="1599557812723" duration="148000" />
       <workItem from="1599636770434" duration="1377000" />
-      <workItem from="1600086593024" duration="4221000" />
+      <workItem from="1600086593024" duration="4525000" />
     </task>
     <task id="LOCAL-00001" summary="Change text from &quot;hallo klas 8a&quot; to &quot;hallo cohort 0&quot;">
       <created>1599556649969</created>
@@ -136,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599638139865</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="made some figures">
+      <created>1600111214430</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600111214430</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,7 +161,9 @@
     <MESSAGE value="Change text from &quot;hallo klas 8a&quot; to &quot;hallo cohort 0&quot;" />
     <MESSAGE value="Voornaam blauw gemaakt achter naam rood en achtergrond wit" />
     <MESSAGE value="First name blue last name red background white" />
-    <option name="LAST_COMMIT_MESSAGE" value="First name blue last name red background white" />
+    <MESSAGE value="made some figures" />
+    <MESSAGE value="made some figures a" />
+    <option name="LAST_COMMIT_MESSAGE" value="made some figures a" />
   </component>
   <component name="WindowStateProjectService">
     <state x="828" y="205" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599557463890">
@@ -169,22 +174,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1103" y="352" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599557463308" />
-    <state width="1340" height="310" key="GridCell.Tab.0.bottom" timestamp="1600110856527">
+    <state width="1340" height="310" key="GridCell.Tab.0.bottom" timestamp="1600111068696">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="310" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600110856527" />
-    <state width="1340" height="310" key="GridCell.Tab.0.center" timestamp="1600110856527">
+    <state width="1340" height="310" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600111068696" />
+    <state width="1340" height="310" key="GridCell.Tab.0.center" timestamp="1600111068695">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="310" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600110856527" />
-    <state width="1340" height="310" key="GridCell.Tab.0.left" timestamp="1600110856527">
+    <state width="1340" height="310" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600111068695" />
+    <state width="1340" height="310" key="GridCell.Tab.0.left" timestamp="1600111068695">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="310" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600110856527" />
-    <state width="1340" height="310" key="GridCell.Tab.0.right" timestamp="1600110856527">
+    <state width="1340" height="310" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600111068695" />
+    <state width="1340" height="310" key="GridCell.Tab.0.right" timestamp="1600111068695">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="310" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600110856527" />
+    <state width="1340" height="310" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600111068695" />
     <state x="693" y="222" key="RollbackChangesDialog" timestamp="1599637414523">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -193,10 +198,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="922" y="200" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599557804778" />
-    <state x="1081" y="325" key="Vcs.Push.Dialog.v2" timestamp="1599638143653">
+    <state x="1081" y="325" key="Vcs.Push.Dialog.v2" timestamp="1600111149292">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1081" y="325" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599638143653" />
+    <state x="1081" y="325" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600111149292" />
     <state x="1257" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599637831571">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
