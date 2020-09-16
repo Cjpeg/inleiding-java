@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aed632bc-6aa4-4131-b93f-1290e4fd79ca" name="Default Changelist" comment="made some figures" />
+    <list default="true" id="aed632bc-6aa4-4131-b93f-1290e4fd79ca" name="Default Changelist" comment="made some figures">
+      <change afterPath="$PROJECT_DIR$/src/h05/H05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,10 +51,23 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/production/inleiding-java" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Applet.H4">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Cas\Desktop\Code2020\JAVA\inleiding-java\out\production\inleiding-java" />
+      <recent name="C:\Users\Cas\Desktop\Code2020\JAVA\inleiding-java\out\production\inleiding-java\h02" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Applet.H05">
+    <configuration name="H05" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h05.H05" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="H4" type="Applet" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h02.H4" />
       <module name="inleiding-java" />
@@ -66,7 +82,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HalloRocDev" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="HalloRocDev" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h01.HalloRocDev" />
       <module name="inleiding-java" />
       <extension name="coverage">
@@ -92,9 +108,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Applet.H05" />
         <item itemvalue="Applet.H4" />
         <item itemvalue="Applet.test" />
-        <item itemvalue="Application.HalloRocDev" />
       </list>
     </recent_temporary>
   </component>
@@ -174,22 +190,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1103" y="352" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599557463308" />
-    <state width="1340" height="310" key="GridCell.Tab.0.bottom" timestamp="1600111068696">
+    <state width="1340" height="308" key="GridCell.Tab.0.bottom" timestamp="1600263977640">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="310" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600111068696" />
-    <state width="1340" height="310" key="GridCell.Tab.0.center" timestamp="1600111068695">
+    <state width="1340" height="308" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600263977640" />
+    <state width="1340" height="308" key="GridCell.Tab.0.center" timestamp="1600263977640">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="310" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600111068695" />
-    <state width="1340" height="310" key="GridCell.Tab.0.left" timestamp="1600111068695">
+    <state width="1340" height="308" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600263977640" />
+    <state width="1340" height="308" key="GridCell.Tab.0.left" timestamp="1600263977640">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="310" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600111068695" />
-    <state width="1340" height="310" key="GridCell.Tab.0.right" timestamp="1600111068695">
+    <state width="1340" height="308" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600263977640" />
+    <state width="1340" height="308" key="GridCell.Tab.0.right" timestamp="1600263977640">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="310" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600111068695" />
+    <state width="1340" height="308" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600263977640" />
     <state x="693" y="222" key="RollbackChangesDialog" timestamp="1599637414523">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -206,5 +222,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1257" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599637831571" />
+    <state x="1350" y="361" key="search.everywhere.popup" timestamp="1600262462360">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1350" y="361" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600262462360" />
   </component>
 </project>
