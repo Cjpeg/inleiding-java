@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aed632bc-6aa4-4131-b93f-1290e4fd79ca" name="Default Changelist" comment="Staafdigram gemaakt met variabelen">
-      <change afterPath="$PROJECT_DIR$/src/h06/H06.java" afterDir="false" />
+    <list default="true" id="aed632bc-6aa4-4131-b93f-1290e4fd79ca" name="Default Changelist" comment="gemiddelde berekent">
+      <change afterPath="$PROJECT_DIR$/src/H08/H081.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H08/H08I.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +53,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/out/production/inleiding-java" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -60,7 +62,7 @@
       <recent name="C:\Users\Cas\Desktop\Code2020\JAVA\inleiding-java\out\production\inleiding-java\h02" />
     </key>
   </component>
-  <component name="RunManager" selected="Applet.H06">
+  <component name="RunManager" selected="Applet.H08I">
     <configuration name="H05" type="Applet" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h05.H05" />
       <module name="inleiding-java" />
@@ -75,15 +77,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="H4" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h02.H4" />
+    <configuration name="H081" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="H08.H081" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="H08I" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="H08.H08I" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="test" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h02.test" />
+      <option name="MAIN_CLASS_NAME" value="H08.test" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -115,10 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Applet.H08I" />
+        <item itemvalue="Applet.H081" />
+        <item itemvalue="Applet.test" />
         <item itemvalue="Applet.H06" />
         <item itemvalue="Applet.H05" />
-        <item itemvalue="Applet.H4" />
-        <item itemvalue="Applet.test" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +145,10 @@
       <workItem from="1599636770434" duration="1377000" />
       <workItem from="1600086593024" duration="4525000" />
       <workItem from="1600346238060" duration="612000" />
-      <workItem from="1600415140485" duration="2632000" />
+      <workItem from="1600415140485" duration="2733000" />
+      <workItem from="1600432549483" duration="11000" />
+      <workItem from="1600617981005" duration="22000" />
+      <workItem from="1600621858494" duration="9236000" />
     </task>
     <task id="LOCAL-00001" summary="Change text from &quot;hallo klas 8a&quot; to &quot;hallo cohort 0&quot;">
       <created>1599556649969</created>
@@ -172,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600264234132</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="gemiddelde berekent">
+      <created>1600417857843</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600417857843</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,33 +217,38 @@
     <MESSAGE value="made some figures" />
     <MESSAGE value="made some figures a" />
     <MESSAGE value="Staafdigram gemaakt met variabelen" />
-    <option name="LAST_COMMIT_MESSAGE" value="Staafdigram gemaakt met variabelen" />
+    <MESSAGE value="gemiddelde berekent" />
+    <option name="LAST_COMMIT_MESSAGE" value="gemiddelde berekent" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="828" y="205" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600416128266">
+    <state x="828" y="205" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600622704184">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="828" y="205" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600416128266" />
+    <state x="828" y="205" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600622704184" />
+    <state x="1530" y="453" key="#com.intellij.ide.util.MemberChooser" timestamp="1600630843686">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1530" y="453" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600630843686" />
     <state x="1103" y="352" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1599557463308">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1103" y="352" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599557463308" />
-    <state width="1340" height="308" key="GridCell.Tab.0.bottom" timestamp="1600417467462">
+    <state width="1340" height="296" key="GridCell.Tab.0.bottom" timestamp="1600631223331">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="308" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600417467462" />
-    <state width="1340" height="308" key="GridCell.Tab.0.center" timestamp="1600417467462">
+    <state width="1340" height="296" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600631223331" />
+    <state width="1340" height="296" key="GridCell.Tab.0.center" timestamp="1600631223330">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="308" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600417467462" />
-    <state width="1340" height="308" key="GridCell.Tab.0.left" timestamp="1600417467461">
+    <state width="1340" height="296" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600631223330" />
+    <state width="1340" height="296" key="GridCell.Tab.0.left" timestamp="1600631223330">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="308" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600417467461" />
-    <state width="1340" height="308" key="GridCell.Tab.0.right" timestamp="1600417467462">
+    <state width="1340" height="296" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600631223330" />
+    <state width="1340" height="296" key="GridCell.Tab.0.right" timestamp="1600631223331">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="308" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600417467462" />
+    <state width="1340" height="296" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600631223331" />
     <state x="693" y="222" key="RollbackChangesDialog" timestamp="1600415789641">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -232,10 +257,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="922" y="200" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599557804778" />
-    <state x="1081" y="325" key="Vcs.Push.Dialog.v2" timestamp="1600264236159">
+    <state x="1081" y="325" key="Vcs.Push.Dialog.v2" timestamp="1600417861604">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1081" y="325" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600264236159" />
+    <state x="1081" y="325" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600417861604" />
     <state x="1257" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599637831571">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
