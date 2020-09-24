@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aed632bc-6aa4-4131-b93f-1290e4fd79ca" name="Default Changelist" comment="gemiddelde berekent">
-      <change afterPath="$PROJECT_DIR$/src/H08/H081.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H08/H08I.java" afterDir="false" />
+    <list default="true" id="aed632bc-6aa4-4131-b93f-1290e4fd79ca" name="Default Changelist" comment="Made an label with an ok and reset button">
+      <change afterPath="$PROJECT_DIR$/src/H08/H08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/H08/ada.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,16 +62,16 @@
       <recent name="C:\Users\Cas\Desktop\Code2020\JAVA\inleiding-java\out\production\inleiding-java\h02" />
     </key>
   </component>
-  <component name="RunManager" selected="Applet.H08I">
-    <configuration name="H05" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h05.H05" />
+  <component name="RunManager" selected="Applet.H08 (1)">
+    <configuration name="H08 (1)" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="H08.H08" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="H06" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h06.H06" />
+    <configuration name="H08" type="Applet" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="H08.H082" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="H08.test" />
+    <configuration name="ada" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="H08.ada" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -124,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Applet.H08 (1)" />
+        <item itemvalue="Applet.ada" />
+        <item itemvalue="Applet.H08" />
         <item itemvalue="Applet.H08I" />
         <item itemvalue="Applet.H081" />
-        <item itemvalue="Applet.test" />
-        <item itemvalue="Applet.H06" />
-        <item itemvalue="Applet.H05" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +148,10 @@
       <workItem from="1600415140485" duration="2733000" />
       <workItem from="1600432549483" duration="11000" />
       <workItem from="1600617981005" duration="22000" />
-      <workItem from="1600621858494" duration="9236000" />
+      <workItem from="1600621858494" duration="9413000" />
+      <workItem from="1600954492266" duration="4456000" />
+      <workItem from="1600959536605" duration="4000" />
+      <workItem from="1600975310292" duration="3004000" />
     </task>
     <task id="LOCAL-00001" summary="Change text from &quot;hallo klas 8a&quot; to &quot;hallo cohort 0&quot;">
       <created>1599556649969</created>
@@ -192,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600417857843</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Made an label with an ok and reset button">
+      <created>1600631343636</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1600631343636</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,37 +228,38 @@
     <MESSAGE value="made some figures a" />
     <MESSAGE value="Staafdigram gemaakt met variabelen" />
     <MESSAGE value="gemiddelde berekent" />
-    <option name="LAST_COMMIT_MESSAGE" value="gemiddelde berekent" />
+    <MESSAGE value="Made an label with an ok and reset button" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made an label with an ok and reset button" />
   </component>
   <component name="WindowStateProjectService">
     <state x="828" y="205" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600622704184">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="828" y="205" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600622704184" />
-    <state x="1530" y="453" key="#com.intellij.ide.util.MemberChooser" timestamp="1600630843686">
+    <state x="1530" y="453" key="#com.intellij.ide.util.MemberChooser" timestamp="1600957876925">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1530" y="453" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600630843686" />
+    <state x="1530" y="453" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600957876925" />
     <state x="1103" y="352" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1599557463308">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1103" y="352" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599557463308" />
-    <state width="1340" height="296" key="GridCell.Tab.0.bottom" timestamp="1600631223331">
+    <state width="1340" height="296" key="GridCell.Tab.0.bottom" timestamp="1600978457889">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="296" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600631223331" />
-    <state width="1340" height="296" key="GridCell.Tab.0.center" timestamp="1600631223330">
+    <state width="1340" height="296" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600978457889" />
+    <state width="1340" height="296" key="GridCell.Tab.0.center" timestamp="1600978457889">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="296" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600631223330" />
-    <state width="1340" height="296" key="GridCell.Tab.0.left" timestamp="1600631223330">
+    <state width="1340" height="296" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600978457889" />
+    <state width="1340" height="296" key="GridCell.Tab.0.left" timestamp="1600978457889">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="296" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600631223330" />
-    <state width="1340" height="296" key="GridCell.Tab.0.right" timestamp="1600631223331">
+    <state width="1340" height="296" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600978457889" />
+    <state width="1340" height="296" key="GridCell.Tab.0.right" timestamp="1600978457889">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="296" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600631223331" />
+    <state width="1340" height="296" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600978457889" />
     <state x="693" y="222" key="RollbackChangesDialog" timestamp="1600415789641">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -257,10 +268,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="922" y="200" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599557804778" />
-    <state x="1081" y="325" key="Vcs.Push.Dialog.v2" timestamp="1600417861604">
+    <state x="1081" y="325" key="Vcs.Push.Dialog.v2" timestamp="1600631345851">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1081" y="325" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600417861604" />
+    <state x="1081" y="325" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600631345851" />
     <state x="1257" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599637831571">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
