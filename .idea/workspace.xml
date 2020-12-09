@@ -19,7 +19,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aed632bc-6aa4-4131-b93f-1290e4fd79ca" name="Default Changelist" comment=" ." />
+    <list default="true" id="aed632bc-6aa4-4131-b93f-1290e4fd79ca" name="Default Changelist" comment=" .">
+      <change afterPath="$PROJECT_DIR$/src/h12/op1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h12/op2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h12/op3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h12/op4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h12/op6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h12/po.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h13/op1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h13/op2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h13/op3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h13/po.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h14/op1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h14/op2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h14/po.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,37 +77,37 @@
       <recent name="C:\Users\Cas\Desktop\Code2020\JAVA\inleiding-java\out\production\inleiding-java\h02" />
     </key>
   </component>
-  <component name="RunManager" selected="Applet.opdracht2">
-    <configuration name="opdracht2" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="opdracht2.opdracht2" />
+  <component name="RunManager" selected="Applet.po (2)">
+    <configuration name="H14_1" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h14.H14_1" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="opdracht5" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h11.opdracht5" />
+    <configuration name="op1" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h14.op1" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="opdracht9" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h11.opdracht9" />
+    <configuration name="op2" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h13.op2" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ph11" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h11.ph11" />
+    <configuration name="po (1)" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h13.po" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sad" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h11.sad" />
+    <configuration name="po (2)" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h14.po" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,26 +126,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Applet.opdracht2" />
-        <item itemvalue="Applet.ph11" />
-        <item itemvalue="Applet.opdracht5" />
-        <item itemvalue="Applet.opdracht9" />
-        <item itemvalue="Applet.sad" />
+        <item itemvalue="Applet.po (2)" />
+        <item itemvalue="Applet.op1" />
+        <item itemvalue="Applet.H14_1" />
+        <item itemvalue="Applet.po (1)" />
+        <item itemvalue="Applet.op2" />
       </list>
     </recent_temporary>
   </component>
@@ -177,6 +190,8 @@
       <workItem from="1605091605554" duration="1000" />
       <workItem from="1605901771015" duration="199000" />
       <workItem from="1607289748568" duration="165000" />
+      <workItem from="1607545583626" duration="59000" />
+      <workItem from="1607549157287" duration="2883000" />
     </task>
     <task id="LOCAL-00001" summary="Change text from &quot;hallo klas 8a&quot; to &quot;hallo cohort 0&quot;">
       <created>1599556649969</created>
@@ -248,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607289909500</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary=" .">
+      <created>1607545621087</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1607545621087</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,22 +327,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="187" y="86" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604393069075" />
-    <state width="1877" height="292" key="GridCell.Tab.0.bottom" timestamp="1607289912787">
+    <state width="1877" height="2" key="GridCell.Tab.0.bottom" timestamp="1607551734742">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607289912787" />
-    <state width="1877" height="292" key="GridCell.Tab.0.center" timestamp="1607289912787">
+    <state width="1877" height="2" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607551734742" />
+    <state width="1877" height="2" key="GridCell.Tab.0.center" timestamp="1607551734742">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="292" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607289912787" />
-    <state width="1877" height="292" key="GridCell.Tab.0.left" timestamp="1607289912787">
+    <state width="1877" height="2" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607551734742" />
+    <state width="1877" height="2" key="GridCell.Tab.0.left" timestamp="1607551734742">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="292" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607289912787" />
-    <state width="1877" height="292" key="GridCell.Tab.0.right" timestamp="1607289912787">
+    <state width="1877" height="2" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607551734742" />
+    <state width="1877" height="2" key="GridCell.Tab.0.right" timestamp="1607551734742">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="292" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607289912787" />
+    <state width="1877" height="2" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607551734742" />
     <state width="1340" height="326" key="GridCell.Tab.1.bottom" timestamp="1604559630268">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -345,10 +367,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="922" y="200" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599557804778" />
-    <state x="1081" y="325" key="Vcs.Push.Dialog.v2" timestamp="1607289902658">
+    <state x="1081" y="325" key="Vcs.Push.Dialog.v2" timestamp="1607545624328">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1081" y="325" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607289902658" />
+    <state x="1081" y="325" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607545624328" />
+    <state x="568" y="167" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1607551103421">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="568" y="167" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1607551103421" />
     <state x="1257" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607289897421">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -357,5 +383,16 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1350" y="361" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600262462360" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/h13/po.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
