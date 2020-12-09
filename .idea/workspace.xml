@@ -19,32 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aed632bc-6aa4-4131-b93f-1290e4fd79ca" name="Default Changelist" comment="made an grade checker">
-      <change afterPath="$PROJECT_DIR$/src/H08/opdracht2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H08/opdracht3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/H10/O10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h04/opdracht1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h04/opdracht2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h04/opdracht3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h04/opdracht4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h04/opdracht5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h04/opdracht6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h04/opdracht7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h05/opdracht1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h06/opdracht1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h06/opdracht2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h06/opdracht3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/opdracht1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/opdracht2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/opdracht3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/opdracht4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/opdracht6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/opdracht7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/opdracht8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/ph11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/sad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="aed632bc-6aa4-4131-b93f-1290e4fd79ca" name="Default Changelist" comment=" ." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,13 +111,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -199,6 +176,7 @@
       <workItem from="1604845727789" duration="5000" />
       <workItem from="1605091605554" duration="1000" />
       <workItem from="1605901771015" duration="199000" />
+      <workItem from="1607289748568" duration="165000" />
     </task>
     <task id="LOCAL-00001" summary="Change text from &quot;hallo klas 8a&quot; to &quot;hallo cohort 0&quot;">
       <created>1599556649969</created>
@@ -263,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601624697007</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary=" .">
+      <created>1607289909500</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1607289909500</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,7 +277,8 @@
     <MESSAGE value="Made an label with an ok and reset button" />
     <MESSAGE value="made an calculator" />
     <MESSAGE value="made an grade checker" />
-    <option name="LAST_COMMIT_MESSAGE" value="made an grade checker" />
+    <MESSAGE value=" ." />
+    <option name="LAST_COMMIT_MESSAGE" value=" ." />
   </component>
   <component name="WindowStateProjectService">
     <state x="828" y="205" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600622704184">
@@ -319,22 +305,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="187" y="86" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604393069075" />
-    <state width="1877" height="292" key="GridCell.Tab.0.bottom" timestamp="1604559630272">
+    <state width="1877" height="292" key="GridCell.Tab.0.bottom" timestamp="1607289912787">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604559630272" />
-    <state width="1877" height="292" key="GridCell.Tab.0.center" timestamp="1604559630272">
+    <state width="1877" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607289912787" />
+    <state width="1877" height="292" key="GridCell.Tab.0.center" timestamp="1607289912787">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="292" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604559630272" />
-    <state width="1877" height="292" key="GridCell.Tab.0.left" timestamp="1604559630272">
+    <state width="1877" height="292" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607289912787" />
+    <state width="1877" height="292" key="GridCell.Tab.0.left" timestamp="1607289912787">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="292" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604559630272" />
-    <state width="1877" height="292" key="GridCell.Tab.0.right" timestamp="1604559630272">
+    <state width="1877" height="292" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607289912787" />
+    <state width="1877" height="292" key="GridCell.Tab.0.right" timestamp="1607289912787">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="292" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604559630272" />
+    <state width="1877" height="292" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607289912787" />
     <state width="1340" height="326" key="GridCell.Tab.1.bottom" timestamp="1604559630268">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -359,14 +345,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="922" y="200" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599557804778" />
-    <state x="1081" y="325" key="Vcs.Push.Dialog.v2" timestamp="1601624698752">
+    <state x="1081" y="325" key="Vcs.Push.Dialog.v2" timestamp="1607289902658">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1081" y="325" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601624698752" />
-    <state x="1257" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599637831571">
+    <state x="1081" y="325" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607289902658" />
+    <state x="1257" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607289897421">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1257" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599637831571" />
+    <state x="1257" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607289897421" />
     <state x="1350" y="361" key="search.everywhere.popup" timestamp="1600262462360">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
